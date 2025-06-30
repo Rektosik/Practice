@@ -317,6 +317,7 @@ namespace Practice3
 }
 
 Результат коду: 
+
 ![image](https://github.com/user-attachments/assets/4371853b-b5ee-41d7-80ab-7cae4dd18d41)
 
 ![image](https://github.com/user-attachments/assets/b92c04ce-389e-4451-bece-01a6ccb0b407)
