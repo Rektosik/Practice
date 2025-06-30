@@ -1,12 +1,16 @@
 Добрий день! В мене варіант 23 
 Код: 
 FigureParameters:
+
+using System;
+using System.Drawing;
+
 using System;
 using System.Drawing;
 
 namespace Practice3
 {
-    public class    
+    public class FigureParameters
     {
         public int Layers { get; set; } = 2;
         public int PointCount { get; set; } = 8;
@@ -67,6 +71,7 @@ namespace Practice3
         }
     }
 }
+
 
 HexagonStarDrawer:
 using System;
