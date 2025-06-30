@@ -74,6 +74,7 @@ namespace Practice3
 
 
 HexagonStarDrawer:
+
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -149,6 +150,7 @@ namespace Practice3
     }
 }
 SettingsForm:
+
 using System;
 using System.Drawing;
 using System.Windows.Forms;
@@ -246,6 +248,7 @@ namespace Practice3
 }
 
 Form1:
+
 using System;
 using System.Drawing;
 using System.Windows.Forms;
