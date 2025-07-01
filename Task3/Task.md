@@ -1,5 +1,6 @@
 Добрий день! В мене варіант 23 
 Код: 
+```
 FigureParameters:
 
 using System;
@@ -315,7 +316,7 @@ namespace Practice3
         }
     }
 }
-
+```
 Результат коду: 
 
 ![image](https://github.com/user-attachments/assets/4371853b-b5ee-41d7-80ab-7cae4dd18d41)
